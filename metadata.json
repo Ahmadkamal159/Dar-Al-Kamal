@@ -1,0 +1,6 @@
+{
+  "name": "موسوعة مواصفات المواد العطرية | Perfumery Materials Database",
+  "description": "المواصفات الفنية الدقيقة والموثوقة لـ 139 مادة عطرية (أرقام CAS، العائلات الشمية، الهرم العطري، معايير IFRA، الكثافة، وقوة الثبات) مع حاسبة التركيب والتصدير لبرامج تصنيع العطور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
